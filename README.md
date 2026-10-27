@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NormAPI is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://normapi.com
+NormAPI provides a German e‑invoicing API supporting XRechnung and ZUGFeRD standards. It offers validation and generation of invoices via REST endpoints, with a free tier of 50 invoices per month and enterprise plans. The service includes documentation, pricing, and legal information, targeting developers and businesses needing compliant e‑invoices in Germany.
+
+**Areas:** Company · e-invoicing · XRechnung · ZUGFeRD · Germany
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://normapi.com)
+- [Documentation](https://normapi.com/en/docs)
+- [API reference](https://normapi.com/openapi.yaml)
+- [Pricing](https://normapi.com/en/pricing)
+- [Security](https://normapi.com/en/security)
+- [Terms of service](https://normapi.com/en/terms)
+- [Privacy policy](https://normapi.com/en/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/normapi-com/](https://apis.io/providers/normapi-com/).
